@@ -1,0 +1,304 @@
+{
+  "data_quality_warnings": [
+    "3 ticket(s): reopen_count > 0 but first_closed_at blank"
+  ],
+  "monthly_tickets": {
+    "2026-07": 390,
+    "2026-08": 462,
+    "2026-09": 592
+  },
+  "growth_jul_sep": 0.5179487179487179,
+  "backlog_month_end": {
+    "2026-07": 30,
+    "2026-08": 23,
+    "2026-09": 48
+  },
+  "open_now": 48,
+  "open_l1": 29,
+  "open_eng": 19,
+  "open_escalated": 34,
+  "littles": {
+    "avg_open": {
+      "2026-07": 19.985,
+      "2026-08": 29.417,
+      "2026-09": 42.718
+    },
+    "arrivals": {
+      "2026-07": 390,
+      "2026-08": 462,
+      "2026-09": 592
+    },
+    "days_observed": {
+      "2026-07": 29.917,
+      "2026-08": 31.0,
+      "2026-09": 30.0
+    },
+    "arrivals_per_day": {
+      "2026-07": 13.036,
+      "2026-08": 14.903,
+      "2026-09": 19.733
+    },
+    "implied_days_in_system": {
+      "2026-07": 1.533,
+      "2026-08": 1.974,
+      "2026-09": 2.165
+    }
+  },
+  "share_growth_from_arrivals": 0.5457449276000064,
+  "ttr_by_handoffs_median": {
+    "0": 12.566666666666666,
+    "1": 58.65,
+    "2": 110.36666666666666,
+    "3": 169.90833333333333
+  },
+  "ttr_by_month_segment": {
+    "resolved_at_L1": {
+      "2026-07": 10.07,
+      "2026-08": 12.55,
+      "2026-09": 13.83
+    },
+    "escalated": {
+      "2026-07": 72.22,
+      "2026-08": 88.8,
+      "2026-09": 94.23
+    },
+    "median_frt_h": {
+      "2026-07": 1.99,
+      "2026-08": 2.49,
+      "2026-09": 3.18
+    },
+    "escalation_rate": {
+      "2026-07": 0.37,
+      "2026-08": 0.33,
+      "2026-09": 0.32
+    }
+  },
+  "escalation_rate": 0.3365650969529086,
+  "bounce_rate": 0.3559670781893004,
+  "eng_fix_rate": 0.43415637860082307,
+  "bounces": 173,
+  "escalations": 486,
+  "extra_handoffs": 291,
+  "total_handoffs": 777,
+  "avg_handoffs": 1.5987654320987654,
+  "duplicates": 56,
+  "duplicates_report_export": 30,
+  "bounce_rate_by_month": {
+    "2026-07": 0.3561643835616438,
+    "2026-08": 0.33774834437086093,
+    "2026-09": 0.37037037037037035
+  },
+  "segment_backlog": {
+    "tickets": {
+      "Bounced back to L1": 173,
+      "Resolved at L1": 958,
+      "Fixed by engineering": 211,
+      "Closed by eng without fix": 102
+    },
+    "ticket_share": {
+      "Bounced back to L1": 0.1198,
+      "Resolved at L1": 0.6634,
+      "Fixed by engineering": 0.1461,
+      "Closed by eng without fix": 0.0706
+    },
+    "backlog_share": {
+      "Bounced back to L1": 0.3531,
+      "Resolved at L1": 0.2858,
+      "Fixed by engineering": 0.2455,
+      "Closed by eng without fix": 0.1157
+    },
+    "median_h": {
+      "Bounced back to L1": 121.6833,
+      "Resolved at L1": 12.6083,
+      "Fixed by engineering": 64.8333,
+      "Closed by eng without fix": 66.9
+    }
+  },
+  "category_backlog": {
+    "tickets": {
+      "Roster / booking not syncing": 344,
+      "Live tracking / GPS incorrect": 228,
+      "Report export failing": 206,
+      "Billing / invoice discrepancy": 88,
+      "OTP / boarding issue": 95,
+      "Cab delay / no-show complaint": 147,
+      "Employee address / geocode change": 75,
+      "How-to / feature request": 104,
+      "Driver / vehicle compliance docs": 57,
+      "Login / access issue": 100
+    },
+    "ticket_share": {
+      "Roster / booking not syncing": 0.2382,
+      "Live tracking / GPS incorrect": 0.1579,
+      "Report export failing": 0.1427,
+      "Billing / invoice discrepancy": 0.0609,
+      "OTP / boarding issue": 0.0658,
+      "Cab delay / no-show complaint": 0.1018,
+      "Employee address / geocode change": 0.0519,
+      "How-to / feature request": 0.072,
+      "Driver / vehicle compliance docs": 0.0395,
+      "Login / access issue": 0.0693
+    },
+    "backlog_share": {
+      "Roster / booking not syncing": 0.3196,
+      "Live tracking / GPS incorrect": 0.262,
+      "Report export failing": 0.1325,
+      "Billing / invoice discrepancy": 0.0731,
+      "OTP / boarding issue": 0.0646,
+      "Cab delay / no-show complaint": 0.0454,
+      "Employee address / geocode change": 0.0301,
+      "How-to / feature request": 0.0293,
+      "Driver / vehicle compliance docs": 0.0234,
+      "Login / access issue": 0.02
+    }
+  },
+  "multi_handoff_tickets": 229,
+  "excess_hours_share": 0.2628606891851388,
+  "agent_scorecard": {
+    "tickets": {
+      "Karan B": 217,
+      "Ananya R": 189,
+      "Priya D": 186,
+      "Arjun K": 178,
+      "Sneha M": 176,
+      "Vikram S": 176,
+      "Neha P": 171,
+      "Rahul T": 151
+    },
+    "median_ttr_h": {
+      "Karan B": 11.875,
+      "Ananya R": 24.058,
+      "Priya D": 22.383,
+      "Arjun K": 20.783,
+      "Sneha M": 25.783,
+      "Vikram S": 20.833,
+      "Neha P": 19.733,
+      "Rahul T": 44.483
+    },
+    "escalation_rate": {
+      "Karan B": 0.161,
+      "Ananya R": 0.402,
+      "Priya D": 0.328,
+      "Arjun K": 0.326,
+      "Sneha M": 0.347,
+      "Vikram S": 0.301,
+      "Neha P": 0.287,
+      "Rahul T": 0.616
+    },
+    "expected_escalation_rate": {
+      "Karan B": 0.338,
+      "Ananya R": 0.338,
+      "Priya D": 0.331,
+      "Arjun K": 0.34,
+      "Sneha M": 0.332,
+      "Vikram S": 0.341,
+      "Neha P": 0.325,
+      "Rahul T": 0.348
+    },
+    "bounces": {
+      "Karan B": 16,
+      "Ananya R": 26,
+      "Priya D": 22,
+      "Arjun K": 17,
+      "Sneha M": 18,
+      "Vikram S": 14,
+      "Neha P": 17,
+      "Rahul T": 43
+    },
+    "expected_bounces": {
+      "Karan B": 26.434,
+      "Ananya R": 23.017,
+      "Priya D": 20.446,
+      "Arjun K": 22.143,
+      "Sneha M": 20.606,
+      "Vikram S": 22.602,
+      "Neha P": 19.438,
+      "Rahul T": 18.316
+    },
+    "reopen_rate": {
+      "Karan B": 0.295,
+      "Ananya R": 0.069,
+      "Priya D": 0.091,
+      "Arjun K": 0.079,
+      "Sneha M": 0.051,
+      "Vikram S": 0.045,
+      "Neha P": 0.082,
+      "Rahul T": 0.079
+    },
+    "expected_reopen_rate": {
+      "Karan B": 0.108,
+      "Ananya R": 0.106,
+      "Priya D": 0.104,
+      "Arjun K": 0.103,
+      "Sneha M": 0.1,
+      "Vikram S": 0.102,
+      "Neha P": 0.104,
+      "Rahul T": 0.108
+    },
+    "csat_mean": {
+      "Karan B": 3.133,
+      "Ananya R": 3.837,
+      "Priya D": 3.783,
+      "Arjun K": 3.853,
+      "Sneha M": 3.718,
+      "Vikram S": 3.919,
+      "Neha P": 3.937,
+      "Rahul T": 3.524
+    },
+    "open_now": {
+      "Karan B": 9,
+      "Ananya R": 7,
+      "Priya D": 6,
+      "Arjun K": 5,
+      "Sneha M": 6,
+      "Vikram S": 6,
+      "Neha P": 3,
+      "Rahul T": 6
+    },
+    "bounce_rate_of_escalations": {
+      "Karan B": 0.457,
+      "Ananya R": 0.342,
+      "Priya D": 0.361,
+      "Arjun K": 0.293,
+      "Sneha M": 0.295,
+      "Vikram S": 0.264,
+      "Neha P": 0.347,
+      "Rahul T": 0.462
+    }
+  },
+  "p_agent_bounce": 0.17875165612533347,
+  "p_agent_esc": 1.6467199446384828e-16,
+  "p_agent_reopen": 4.013224508972747e-19,
+  "reopen_share_top": {
+    "Karan B": 0.424
+  },
+  "bounce_share": {
+    "Rahul T": 0.249,
+    "Ananya R": 0.15,
+    "Priya D": 0.127,
+    "Sneha M": 0.104,
+    "Arjun K": 0.098,
+    "Neha P": 0.098,
+    "Karan B": 0.092,
+    "Vikram S": 0.081
+  },
+  "csat_by_handoffs": {
+    "0": 4.01,
+    "1": 3.56,
+    "2": 2.8,
+    "3": 2.1
+  },
+  "csat_by_reopen": {
+    "0": 3.84,
+    "1": 2.46,
+    "2": 1.33,
+    "3": NaN
+  },
+  "bounce_model_auc": {
+    "ticket fields": 0.4838969404186796,
+    "ticket fields + agent": 0.5213365539452496
+  },
+  "related_recall_dups": 0.7857142857142857,
+  "related_flag_rate": 0.7716049382716049,
+  "related_precision_dups": 0.11733333333333333
+}
